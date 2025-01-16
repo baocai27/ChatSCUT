@@ -1,0 +1,2 @@
+# ChatSCUT
+AI student
